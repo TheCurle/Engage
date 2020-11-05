@@ -1,0 +1,6 @@
+{
+  "parent": "engage:item/materials_transform",
+  "textures": {
+    "layer0": "engage:item/dilithium"
+  }
+}

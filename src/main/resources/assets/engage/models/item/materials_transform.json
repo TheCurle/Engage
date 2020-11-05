@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/generated",
+  "display": {
+    "firstperson_righthand": {
+      "translation": [
+        -44,
+        -100,
+        1500
+      ]
+    }
+  }
+}
