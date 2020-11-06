@@ -26,8 +26,8 @@ public class ItemsGen extends ItemModelProvider {
         transformParent = withExistingParent("materials_transform", new ResourceLocation("item/generated"));
         transformParent.transforms()
                 .transform(ModelBuilder.Perspective.FIRSTPERSON_RIGHT)
-                    .translation(0F, 1.25F, -2.5F)
-                    .scale(1, 1, 1)
+                    .translation(0.5F, 4.5F, 0.5F)
+                    .scale(0.5F, 0.5F, 0.5F)
                     .end()
                 .end();
 
